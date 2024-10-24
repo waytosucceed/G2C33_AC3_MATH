@@ -1,0 +1,122 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Lila saw a tall tree standing straight up in her neighborhood. What kind of line does the tree trunk make?",
+        "options": [
+            "Sleeping line",
+            "Standing line",
+            "Slanting line",
+            "Curved line"
+        ],
+        "correct": 1,
+        "secondImg":"./images/1.png"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Lila saw her friend lying down on the soft grass. What type of line would her friend’s body make when she’s lying down?",
+        "options": [
+            "Standing line",
+            "Curved line",
+            "Slanting line",
+            "Sleeping line"
+        ],
+        "correct": 3,
+      "secondImg":"./images/2.png"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "As Lila walked, she saw a ladder leaning against the wall. What type of line does the ladder form?",
+        "options": [
+            "Slanting line",
+            "Sleeping line",
+            "Curved line",
+            "Standing line"
+        ],
+        "correct": 0,
+      "secondImg":"./images/3.png"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Lila saw a beautiful rainbow. What type of line does a rainbow have?",
+        "options": [
+            "Standing line",
+            "Sleeping line",
+            "Curved line",
+            "Slanting line"
+        ],
+        "correct": 2,
+      "secondImg":"./images/4.png"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "In the park, Lila spotted a bench. The seat of the bench makes what type of line?",
+        "options": [
+            "Sleeping line",
+            "Slanting line",
+            "Curved line",
+            "Standing line"
+        ],
+        "correct": 0,
+      "secondImg":"./images/5.png"
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Lila was climbing the staircase. What kind of line does the railing of the staircase make?",
+        "options": [
+            "Sleeping line",
+            "Standing line",
+            "Curved line",
+            "Slanting line"
+        ],
+        "correct": 3,
+      "secondImg":"./images/6.png"
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Lila got her adventure diary with her to note down her adventure experience. What type of lines are made in the pages of her diary?",
+        "options": [
+            "Slanting line",
+            "Curved line",
+            "Standing line",
+            "Sleeping line"
+        ],
+        "correct": 3,
+      "secondImg":"./images/7.png"
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Lila noticed the road in her neighborhood from side to side is straight. What type of line does the road make?",
+        "options": [
+            "Curved line",
+            "Slanting line",
+            "Sleeping line",
+            "Standing line"
+        ],
+        "correct": 2,
+      "secondImg":"./images/8.png"
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Lila saw a snake slithering in a wavy pattern across the path. What kind of line does the snake make?",
+        "options": [
+            "Standing line",
+            "Curved line",
+            "Sleeping line",
+            "Slanting line"
+        ],
+        "correct": 1,
+      "secondImg":"./images/9.png"
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Lila noticed a wooden fence around her neighbor's garden. What kind of line do the fence posts make?",
+        "options": [
+            "Sleeping line",
+            "Curved line",
+            "Slanting line",
+            "Standing line"
+        ],
+        "correct": 3,
+      "secondImg":"./images/10.png"
+    }
+]
